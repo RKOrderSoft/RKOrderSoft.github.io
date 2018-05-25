@@ -1,5 +1,3 @@
-OrderSoft
-======
 # A complete restaurant management system
 OrderSoft is a complete restaurant system, incorporating ordering, kitchen, point of sales and management features in one package. It is designed to be run on multiple devices over a local area network (isolated from the Internet).
 
